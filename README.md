@@ -24,9 +24,3 @@
 <div>
     <a href="https://instagram.com/vinicius.drte"/><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </div>
-
-##
-
-<div>
-  
-</div>
