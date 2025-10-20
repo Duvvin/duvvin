@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning/Atualmente Estudando: HTML/CSS/JavaScript
 - 😄 Pronouns/Pronomes: Ele/Dele He/Him
-- 🕯️ Idade/Years old: 23
+- 🕯️ Idade/Years old: 24
 
  ##
 
