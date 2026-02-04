@@ -1,6 +1,7 @@
-## Hi Gurizada of the Grêmio 👋
+## Hi👋
 
-- 🌱 I’m currently learning/Atualmente Estudando: HTML/CSS/JavaScript
+- 🌱 I’m currently learning/Atualmente Estudando: JavaScript
+- ⌨️ My Languages/ Minhas Linguagens: JavaScript, PHP, React.JS, Node.JS, MySQL
 - 😄 Pronouns/Pronomes: Ele/Dele He/Him
 - 🕯️ Idade/Years old: 24
 
