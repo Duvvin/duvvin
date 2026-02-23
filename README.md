@@ -1,6 +1,6 @@
 ## Hi👋
 
-- 🌱 I’m currently learning/Atualmente Estudando: JavaScript
+- 🌱 I’m currently learning/Atualmente Estudando: NodeJS, MongoDB
 - ⌨️ My Languages/ Minhas Linguagens: JavaScript, Node.JS, MySQL & MongoDB
 - 😄 Pronouns/Pronomes: Ele/Dele He/Him
 - 🕯️ Idade/Years old: 24
