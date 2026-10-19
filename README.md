@@ -1,6 +1,6 @@
 ## Hi👋
 
-- 🌱 I’m currently learning/Atualmente Estudando: NodeJS, MongoDB
+- 🌱 I’m currently learning/Atualmente Estudando: Java
 - ⌨️ My Languages/ Minhas Linguagens: JavaScript, Node.JS, MySQL & MongoDB
 - 😄 Pronouns/Pronomes: Ele/Dele He/Him
 - 🕯️ Idade/Years old: 24
@@ -16,6 +16,8 @@
     <img align="center" width="40px" height="52px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png"/>
     <img align="center" width="40px" height="52px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png"/>
     <img align="center" width="40px" height="52px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png"/>
+    <img align="center" width="40px" height="52px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png"/>
+ 
 </div>
 
  ##
